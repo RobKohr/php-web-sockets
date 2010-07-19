@@ -1,0 +1,9 @@
+Originally from here: 
+http://code.google.com/p/phpwebsocket/
+and written by georgenava
+
+Modified to work on newer version (76) of the spec for websockets using a handshaking class written by Andrea Giammarchi here:
+http://webreflection.blogspot.com/2010/06/websocket-handshake-76-simplified.html
+
+This should still work with 75, but not tested. 
+
